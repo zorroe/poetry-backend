@@ -24,7 +24,7 @@
 
 ## 演示
 
-![poetry](../../vue3/ancient-poetry/public/poetry.gif)
+![poetry](./public/poetry.gif)
 
 ## TODO
 
